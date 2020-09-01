@@ -1,0 +1,2 @@
+spi=com.yale.spi.service.impl.DubboSpiServiceImpl
+spi2=com.yale.spi.service.impl.DubboSpiServiceImpl2
